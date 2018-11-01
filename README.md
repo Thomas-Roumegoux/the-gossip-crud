@@ -1,2 +1,2 @@
 # the-gossip-crud
-https://thegossipprojectcrud.herokuapp.com
+https://thegossipprojectfblike.herokuapp.com
